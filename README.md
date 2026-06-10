@@ -72,6 +72,18 @@ I believe learning never stops, and I'm constantly exploring new technologies, i
 </div>
 
 ---
+## 🚀 Featured Projects
+
+### 🛍️ DripSite
+An online store for customized products and clothing.
+
+### 📚 Academic Projects
+A collection of university and personal software projects.
+
+### 🤖 Robotics Experiments
+Projects involving electronics, automation and robotics.
+
+---
 
 ## 🔥 Contribution Streak
 
