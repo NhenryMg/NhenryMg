@@ -95,16 +95,6 @@ Projects involving electronics, automation and robotics.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NhenryMg&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
 ## 🎯 Goals
 
 - Learn more about Software Engineering.
