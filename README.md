@@ -1,8 +1,8 @@
 <div align="center">
 
-# ⚙️ Henry José
+# ⚙️ Henry Monge
 
-### Developer • Engineer • Builder
+### Developer • Engineer • Autodidact
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+ideas+into+reality;Web+Developer;Engineering+Enthusiast;Robotics+Explorer;Always+learning+something+new" />
 
