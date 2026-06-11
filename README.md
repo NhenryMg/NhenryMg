@@ -4,7 +4,7 @@
 
 ### Developer • Engineer • Autodidact
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+ideas+into+reality;Web+Developer;Engineering+Enthusiast;Robotics+Explorer;Always+learning+something+new" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=We are made to conquer the stars;Web+Developer;Engineering+Enthusiast;Robotics+Explorer;Always+learning+something+new" />
 
 </div>
 
@@ -65,9 +65,9 @@ I believe learning never stops, and I'm constantly exploring new technologies, i
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NhenryMg&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=NhenryMg&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhenryMg&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhenryMg&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
