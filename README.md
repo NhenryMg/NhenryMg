@@ -1,112 +1,314 @@
 <div align="center">
 
-# ⚙️ Henry Monge
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=220&section=header&text=Henry%20Monge&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Developer%20%7C%20Engineering%20Enthusiast&descAlignY=55&descSize=18"/>
 
-### Developer • Engineer • Autodidact
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=We+are+made+to+conquer+the+stars;Web+Developer;Engineering+Enthusiast;Robotics+Explorer;Always+learning+something+new" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=We+are+made+to+conquer+the+stars;Full+Stack+Developer;Software+Engineering+Explorer;Robotics+%26+Electronics+Enthusiast;Building+ideas+into+systems;Always+learning+something+new" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Nicaragua-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-0D1117?style=for-the-badge&logo=codeforces&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Full%20Stack-0D1117?style=for-the-badge&logo=stackshare&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Always%20Learning-0D1117?style=for-the-badge&logo=academia&logoColor=58A6FF"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a self-taught developer from Nicaragua with a strong passion for engineering, technology, and problem-solving.
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I enjoy building projects that combine creativity, logic, and innovation. My interests range from web development and software engineering to electronics, robotics, and system design.
+Hey! I'm **Henry**, a developer and engineering student from **Nicaragua**.
 
-I believe learning never stops, and I'm constantly exploring new technologies, ideas, and challenges.
+I like understanding how things work and then trying to build them myself.
+
+My interests live somewhere between:
+
+* 💻 **Software Development**
+* ⚙️ **Software Engineering**
+* 🤖 **Robotics**
+* 🔌 **Electronics**
+* 🧠 **Algorithms & Problem Solving**
+* 🌐 **Web Technologies**
+* 🧮 **Numerical Methods**
+* 🏎️ **Technology & Motorsport**
+
+I'm especially interested in projects where **software meets engineering**.
+
+I don't want to just learn how to use technology.
+
+I want to understand **how it works underneath**.
+
+<br clear="right"/>
 
 ---
-
-## 🚀 Technologies & Tools
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## ⚡ My Development Philosophy
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### `Learn → Build → Break → Understand → Improve`
 
 </div>
 
 ---
 
-## 🧠 Current Interests
-
-- 💻 Full Stack Development
-- 🤖 Robotics & Electronics
-- ⚙️ Engineering
-- 🌐 Web Technologies
-- 🏎️ Formula 1
-- 📚 Continuous Learning
-- 🔍 Problem Solving & System Analysis
-
----
-
-## 📈 Experience
-
-- Developed responsive websites using HTML, CSS, JavaScript and PHP.
-- Worked with relational databases using MySQL.
-- Built academic and personal software projects.
-- Experience designing user interfaces and web systems.
-- Exploring software architecture and engineering concepts.
-- Constantly improving through self-learning and experimentation.
-
----
-
-## 📊 GitHub Statistics
+# 🧠 Tech Stack
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=NhenryMg&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 💻 Languages
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhenryMg&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,php,html,css" />
+
+<br><br>
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ionic" />
+
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+
+<br><br>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+
+<br><br>
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,render" />
 
 </div>
 
 ---
-## 🚀 Featured Projects
+
+# 🚀 What I Build
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌐 Full Stack Applications
+
+I build complete web applications connecting modern interfaces with backend services, APIs, authentication and databases.
+
+**Currently exploring:**
+
+`Next.js` `React` `Node.js` `Express` `REST APIs`
+
+</td>
+
+<td width="50%">
+
+### 🧮 Engineering Software
+
+I enjoy turning mathematical and engineering concepts into actual software.
+
+**Areas:**
+
+`Algorithms` `Numerical Methods` `Data Structures` `Java`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 Robotics & Electronics
+
+Exploring the intersection between software and physical systems.
+
+`Automation` `Electronics` `Robotics` `Embedded Systems`
+
+</td>
+
+<td width="50%">
+
+### 🧠 Problem Solving
+
+I enjoy problems that require more than just knowing a framework.
+
+`Logic` `Algorithms` `System Analysis` `Optimization`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/NhenryMg">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NhenryMg&repo=DripSite&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+<a href="https://github.com/NhenryMg">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NhenryMg&repo=Calculadora-Metodos-Numericos&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%">
 
 ### 🛍️ DripSite
-An online store for customized products and clothing.
 
-### 📚 Academic Projects
-A collection of university and personal software projects.
+Full-stack e-commerce platform for customized products and clothing.
 
-### 🤖 Robotics Experiments
-Projects involving electronics, automation and robotics.
+**Technologies**
+
+`Next.js` `React` `Tailwind`
+`Node.js` `Express` `JWT` `REST API`
+
+</td>
+
+<td width="50%">
+
+### 🧮 Numerical Methods Calculator
+
+Desktop application for solving mathematical problems using numerical methods.
+
+**Technologies**
+
+`Java` `Swing` `Algorithms`
+`Numerical Analysis`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🔥 Contribution Streak
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=NhenryMg&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NhenryMg&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhenryMg&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=NhenryMg&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
 </div>
 
 ---
 
-## 🎯 Goals
-
-- Learn more about Software Engineering.
-- Build useful and innovative projects.
-- Expand my knowledge in robotics and electronics.
-- Contribute to open-source projects.
-- Keep improving every day.
-
----
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-### "Learning is not a destination; it is a lifelong process."
+<img src="https://github-profile-trophy.vercel.app/?username=NhenryMg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NhenryMg&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/NhenryMg/NhenryMg/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+| Area | Focus                            |
+| :--: | :------------------------------- |
+|  💻  | **Software Engineering**         |
+|  🌐  | **Full Stack Development**       |
+|  🧠  | **Algorithms & Data Structures** |
+|  ⚙️  | **System Architecture**          |
+|  🤖  | **Robotics & Automation**        |
+|  🔌  | **Electronics**                  |
+|  📚  | **Continuous Learning**          |
+
+</div>
+
+---
+
+# 🌌 The Bigger Picture
+
+<div align="center">
+
+> *"We are made to conquer the stars."*
+
+<br>
+
+I'm interested in building things that live at the intersection of
+**software, mathematics, engineering and creativity.**
+
+<br>
+
+### 🚀 Learn relentlessly. Build fearlessly. Explore endlessly.
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/NhenryMg">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=NhenryMg&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=120&section=footer"/>
 
 </div>
