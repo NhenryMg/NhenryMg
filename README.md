@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=220&section=header&text=Henry%20Monge&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Developer%20%7C%20Engineering%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=220&section=header&text=Henry%20Monge&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Developer%20%7C%20Engineering%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
@@ -13,6 +13,16 @@
 <img src="https://img.shields.io/badge/Full%20Stack-0D1117?style=for-the-badge&logo=stackshare&logoColor=58A6FF"/>
 <img src="https://img.shields.io/badge/Always%20Learning-0D1117?style=for-the-badge&logo=academia&logoColor=58A6FF"/>
 
+<br><br>
+
+<a href="https://github.com/NhenryMg">
+<img src="https://img.shields.io/github/followers/NhenryMg?style=for-the-badge&logo=github&label=Followers&color=161B22"/>
+</a>
+
+<a href="https://github.com/NhenryMg?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+</a>
+
 </div>
 
 ---
@@ -21,26 +31,29 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Hey! I'm **Henry**, a developer and engineering student from **Nicaragua**.
+Hey! I'm **Henry**, a developer and engineering student from **Nicaragua** 🇳🇮.
 
-I like understanding how things work and then trying to build them myself.
+I'm fascinated by technology, engineering and the process of turning an idea into something that actually works.
 
 My interests live somewhere between:
 
 * 💻 **Software Development**
 * ⚙️ **Software Engineering**
+* 🌐 **Web Development**
+* 🧠 **Algorithms & Problem Solving**
+* 🧮 **Numerical Methods**
 * 🤖 **Robotics**
 * 🔌 **Electronics**
-* 🧠 **Algorithms & Problem Solving**
-* 🌐 **Web Technologies**
-* 🧮 **Numerical Methods**
-* 👾 **I think i'm weirdo**
+* 🏎️ **Technology & Motorsport**
+* 👾 **Being a little bit weird**
+
+I enjoy learning by building things, breaking them, figuring out why they broke, and then trying to make them better.
 
 I'm especially interested in projects where **software meets engineering**.
 
-I don't want to just learn how to use technology.
+I don't want to simply know how to use technology.
 
-I want to understand **how it works underneath**.
+I want to understand **what's happening underneath**.
 
 <br clear="right"/>
 
@@ -68,7 +81,7 @@ I want to understand **how it works underneath**.
 
 ### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ionic" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ionic,ejs" />
 
 <br><br>
 
@@ -101,11 +114,11 @@ I want to understand **how it works underneath**.
 
 ### 🌐 Full Stack Applications
 
-I build complete web applications connecting modern interfaces with backend services, APIs, authentication and databases.
+I build web applications that connect modern interfaces with backend services, APIs, authentication and databases.
 
-**Currently exploring:**
+`Next.js` `React` `Tailwind`
 
-`Next.js` `React` `Node.js` `Express` `REST APIs`
+`Node.js` `Express` `REST APIs`
 
 </td>
 
@@ -115,9 +128,9 @@ I build complete web applications connecting modern interfaces with backend serv
 
 I enjoy turning mathematical and engineering concepts into actual software.
 
-**Areas:**
+`Java` `Algorithms`
 
-`Algorithms` `Numerical Methods` `Data Structures` `Java`
+`Numerical Methods` `Data Structures`
 
 </td>
 
@@ -129,9 +142,11 @@ I enjoy turning mathematical and engineering concepts into actual software.
 
 ### 🤖 Robotics & Electronics
 
-Exploring the intersection between software and physical systems.
+I'm interested in the intersection between software and physical systems.
 
-`Automation` `Electronics` `Robotics` `Embedded Systems`
+`Automation` `Electronics`
+
+`Robotics` `Embedded Systems`
 
 </td>
 
@@ -139,9 +154,11 @@ Exploring the intersection between software and physical systems.
 
 ### 🧠 Problem Solving
 
-I enjoy problems that require more than just knowing a framework.
+I like problems that require understanding instead of simply following a tutorial.
 
-`Logic` `Algorithms` `System Analysis` `Optimization`
+`Logic` `Algorithms`
+
+`System Analysis` `Optimization`
 
 </td>
 
@@ -154,15 +171,15 @@ I enjoy problems that require more than just knowing a framework.
 
 <div align="center">
 
-<a href="https://github.com/NhenryMg">
+<a href="https://github.com/NhenryMg/CalculadoraMetodosNumericos">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NhenryMg&repo=DripSite&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NhenryMg&repo=CalculadoraMetodosNumericos&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
 
 </a>
 
-<a href="https://github.com/NhenryMg">
+<a href="https://github.com/NhenryMg/SolvingLeetcode">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NhenryMg&repo=Calculadora-Metodos-Numericos&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NhenryMg&repo=SolvingLeetcode&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
 
 </a>
 
@@ -175,27 +192,57 @@ I enjoy problems that require more than just knowing a framework.
 
 <td width="50%">
 
-### 🛍️ DripSite
+### 🧮 Calculadora de Métodos Numéricos
 
-Full-stack e-commerce platform for customized products and clothing.
+Proyecto académico desarrollado para la materia **Métodos Numéricos**.
 
-**Technologies**
+Implementa diferentes métodos matemáticos mediante una aplicación de escritorio.
 
-`Next.js` `React` `Tailwind`
-`Node.js` `Express` `JWT` `REST API`
+**Stack**
+
+`Java` `Swing` `Numerical Analysis`
 
 </td>
 
 <td width="50%">
 
-### 🧮 Numerical Methods Calculator
+### 🧠 SolvingLeetcode
 
-Desktop application for solving mathematical problems using numerical methods.
+Un repositorio donde practico problemas de programación y estructuras de datos.
 
-**Technologies**
+Porque aparentemente decidí sufrir voluntariamente.
 
-`Java` `Swing` `Algorithms`
-`Numerical Analysis`
+**Stack**
+
+`Python` `Algorithms` `Problem Solving`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌐 HS3code.github.io
+
+Uno de mis proyectos públicos de desarrollo web.
+
+**Stack**
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%">
+
+### 🔬 LabMov2025
+
+Proyecto relacionado con mi formación académica y experimentación.
+
+**Status**
+
+`Academic Project`
 
 </td>
 
@@ -204,17 +251,43 @@ Desktop application for solving mathematical problems using numerical methods.
 
 ---
 
+# 🔥 Other Projects
+
+<div align="center">
+
+|            Project            | Description                      |       Technology       |
+| :---------------------------: | :------------------------------- | :--------------------: |
+|      🛍️ **DripSite-JS**      | E-commerce refactor with backend | `TypeScript` `Node.js` |
+|      🌐 **my-portfolio**      | Personal portfolio               |        `Next.js`       |
+|      🌎 **hn26-turismo**      | Tourism-related web project      |          `Web`         |
+| 💻 **tecnosolucionesobregon** | Business website                 |         `HTML`         |
+|       📚 **e-commerce**       | Experimental e-commerce project  |          `Web`         |
+|          🎨 **nexus**         | Experimental web project         |          `Web`         |
+|       💙 **paratiSari**       | A special personal web project   |          `EJS`         |
+|        💌 **Sariiiii**        | Another experimental web project |         `HTML`         |
+|         📖 **manhen**         | Experimental manga project       |      `JavaScript`      |
+
+</div>
+
+> Some projects are private because they're still under development, experimental, personal, or simply not ready for the world yet. 👀
+
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NhenryMg&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NhenryMg&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhenryMg&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhenryMg&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
-<br><br>
+</div>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=NhenryMg&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=NhenryMg&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" />
 
 </div>
 
@@ -224,17 +297,17 @@ Desktop application for solving mathematical problems using numerical methods.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NhenryMg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NhenryMg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NhenryMg&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NhenryMg&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Henry%27s%20Contribution%20Graph" width="95%"/>
 
 </div>
 
@@ -244,27 +317,129 @@ Desktop application for solving mathematical problems using numerical methods.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NhenryMg/NhenryMg/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/NhenryMg/NhenryMg/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="90%"/>
 
 </div>
 
 ---
 
-# 🎯 Current Focus
+# 📚 Currently Learning
 
 <div align="center">
 
-| Area | Focus                            |
-| :--: | :------------------------------- |
-|  💻  | **Software Engineering**         |
-|  🌐  | **Full Stack Development**       |
-|  🧠  | **Algorithms & Data Structures** |
-|  ⚙️  | **System Architecture**          |
-|  🤖  | **Robotics & Automation**        |
-|  🔌  | **Electronics**                  |
-|  📚  | **Continuous Learning**          |
+<table>
+
+<tr>
+<td align="center" width="160">
+
+### 💻
+
+**Software Engineering**
+
+</td>
+
+<td align="center" width="160">
+
+### 🌐
+
+**Full Stack**
+
+</td>
+
+<td align="center" width="160">
+
+### 🧠
+
+**Algorithms**
+
+</td>
+
+<td align="center" width="160">
+
+### ⚙️
+
+**Architecture**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🤖
+
+**Robotics**
+
+</td>
+
+<td align="center">
+
+### 🔌
+
+**Electronics**
+
+</td>
+
+<td align="center">
+
+### 🧮
+
+**Numerical Methods**
+
+</td>
+
+<td align="center">
+
+### 📚
+
+**Continuous Learning**
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
+
+---
+
+# 🗺️ My Developer Journey
+
+```text
+        HTML / CSS
+             │
+             ▼
+       JavaScript
+             │
+             ▼
+      Web Development
+             │
+       ┌─────┴─────┐
+       ▼           ▼
+    React        Node.js
+       │           │
+       └─────┬─────┘
+             ▼
+       Full Stack
+             │
+             ▼
+    Software Engineering
+             │
+       ┌─────┴─────┐
+       ▼           ▼
+   Algorithms   Architecture
+       │           │
+       └─────┬─────┘
+             ▼
+       Engineering
+             │
+       ┌─────┴─────┐
+       ▼           ▼
+   Electronics   Robotics
+```
 
 ---
 
@@ -272,31 +447,38 @@ Desktop application for solving mathematical problems using numerical methods.
 
 <div align="center">
 
-> *"We are made to conquer the stars."*
+### *"We are made to conquer the stars."*
 
 <br>
 
-I'm interested in building things that live at the intersection of
-**software, mathematics, engineering and creativity.**
+I'm interested in building things at the intersection of
+
+### **Software × Mathematics × Engineering × Creativity**
 
 <br>
 
-### 🚀 Learn relentlessly. Build fearlessly. Explore endlessly.
+🚀 **Learn relentlessly.**
+
+⚙️ **Build fearlessly.**
+
+🧠 **Understand deeply.**
+
+🌌 **Explore endlessly.**
 
 </div>
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/NhenryMg">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <a href="mailto:mongegonzalezhenry@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </div>
@@ -309,6 +491,6 @@ I'm interested in building things that live at the intersection of
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=120&section=footer" width="100%"/>
 
 </div>
