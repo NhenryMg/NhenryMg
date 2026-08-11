@@ -290,31 +290,11 @@ Proyecto relacionado con mi formación académica y experimentación.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NhenryMg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" />
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NhenryMg&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Henry%27s%20Contribution%20Graph" width="95%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/NhenryMg/NhenryMg/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="90%"/>
 
 </div>
 
@@ -400,43 +380,6 @@ Proyecto relacionado con mi formación académica y experimentación.
 </table>
 
 </div>
-
----
-
-# 🗺️ My Developer Journey
-
-```text
-        HTML / CSS
-             │
-             ▼
-       JavaScript
-             │
-             ▼
-      Web Development
-             │
-       ┌─────┴─────┐
-       ▼           ▼
-    React        Node.js
-       │           │
-       └─────┬─────┘
-             ▼
-       Full Stack
-             │
-             ▼
-    Software Engineering
-             │
-       ┌─────┴─────┐
-       ▼           ▼
-   Algorithms   Architecture
-       │           │
-       └─────┬─────┘
-             ▼
-       Engineering
-             │
-       ┌─────┴─────┐
-       ▼           ▼
-   Electronics   Robotics
-```
 
 ---
 
