@@ -262,8 +262,6 @@ Proyecto relacionado con mi formación académica y experimentación.
 | 💻 **tecnosolucionesobregon** | Business website                 |         `HTML`         |
 |       📚 **e-commerce**       | Experimental e-commerce project  |          `Web`         |
 |          🎨 **nexus**         | Experimental web project         |          `Web`         |
-|       💙 **paratiSari**       | A special personal web project   |          `EJS`         |
-|        💌 **Sariiiii**        | Another experimental web project |         `HTML`         |
 |         📖 **manhen**         | Experimental manga project       |      `JavaScript`      |
 
 </div>
