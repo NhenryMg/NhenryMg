@@ -34,7 +34,7 @@ My interests live somewhere between:
 * 🧠 **Algorithms & Problem Solving**
 * 🌐 **Web Technologies**
 * 🧮 **Numerical Methods**
-* 🏎️ **Technology & Motorsport**
+* 👾 **I think i'm weirdo**
 
 I'm especially interested in projects where **software meets engineering**.
 
