@@ -44,7 +44,6 @@ My interests live somewhere between:
 * 🧮 **Numerical Methods**
 * 🤖 **Robotics**
 * 🔌 **Electronics**
-* 🏎️ **Technology & Motorsport**
 * 👾 **Being a little bit weird**
 
 I enjoy learning by building things, breaking them, figuring out why they broke, and then trying to make them better.
